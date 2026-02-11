@@ -1,6 +1,6 @@
 # [ICLR 2026] PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits
 
-This is the official implementation of the paper **"[PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits](https://openreview.net/pdf?id=x446ASYlCt)"**, ICLR 2026. ([Blog](https://minghaofu.github.io/webpages/PersonaX/index.html)
+This is the official implementation of the paper **"[PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits](https://openreview.net/pdf?id=x446ASYlCt)"**, ICLR 2026. ([Blog](https://minghaofu.github.io/webpages/PersonaX/index.html))
 
 # Datasets
 
